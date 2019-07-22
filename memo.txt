@@ -1,0 +1,8 @@
+"TimerH:3\tTimerL:45056\r\n"
+"TimerH:2\tTimerL:45056\r\n"
+"TimerH:1\tTimerL:45056\r\n"
+"TimerH:0\tTimerL:0\r\n"
+"delay_isr: delay_flag=true\r\n"
+"main:setup:\r\n"
+"main:loop:begin\r\n"
+"SUBGHZ_OK\tRSSI=0\tSTATUS=0\r\n"
