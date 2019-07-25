@@ -12,7 +12,8 @@
 
 #./load_prog.rb bin/Welcome_SubGHz_wdt.bin mini
 #./load_prog.rb bin/Welcome_SubGHz_2wait.bin mini
-./load_prog.rb bin/Welcome_SubGHz.bin mini
+#./load_prog.rb bin/Welcome_SubGHz.bin mini
+./load_prog.rb $1
 
 ./serialmoniter.rb
 
