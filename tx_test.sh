@@ -1,5 +1,6 @@
 #! /bin/bash
 
+
 #I2CDEV=`sudo cat /etc/modules | grep i2c-dev | sed 's/i2c//g'`
 
 #echo $I2CDEV
